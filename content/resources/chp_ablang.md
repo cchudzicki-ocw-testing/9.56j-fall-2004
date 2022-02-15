@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: Infant Perception
-type: OCWImage
 uid: c415aa8d-4ee8-e4fd-c746-f57eb8a2e10c
 ---

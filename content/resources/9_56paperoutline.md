@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 9.56/24.907 Paper Topics
-type: OCWFile
 uid: e0d1b566-977c-934f-4d17-9749e492764b
 ---

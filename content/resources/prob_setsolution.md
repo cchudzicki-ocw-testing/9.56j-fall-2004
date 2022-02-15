@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Syntax Problem Set
-type: OCWFile
 uid: 39d6659e-7ae0-fd8d-e5bb-5df0dabb59c8
 ---
