@@ -24,7 +24,7 @@ This course is aimed at undergraduates in the cognitive sciences, brain sciences
 Readings
 --------
 
-There will be two required readings per class, which should be read before class. The exams will cover material present in the readings that is not discussed in class. All readings are posted in the {{< resource_link 2d4abfbe-be67-5393-e7ee-56130070accd "readings" >}} section.
+There will be two required readings per class, which should be read before class. The exams will cover material present in the readings that is not discussed in class. All readings are posted in the {{% resource_link 2d4abfbe-be67-5393-e7ee-56130070accd "readings" %}} section.
 
 Attendance Policy
 -----------------

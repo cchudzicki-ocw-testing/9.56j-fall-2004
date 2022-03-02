@@ -7,12 +7,12 @@ title: Assignments
 uid: 32813bd2-8032-e053-e9dd-06dba2765557
 ---
 
-Syntax Problem Set ({{< resource_link 03e6b983-7d5e-8f1d-da0e-de801b836ffe "PDF" >}})
+Syntax Problem Set ({{% resource_link 03e6b983-7d5e-8f1d-da0e-de801b836ffe "PDF" %}})
 ----------------------------------------------------------------------
 
 Note that these problems are not meant to be "tricky" but to help you learn, to let you test your understanding. Answers should be given in a fairly brief manner; no extra points for extra words. Clarity and correctness is most important. We are happy with and encourage working in groups, but all exercises must be written in your own words (no copying or group submissions). As always, note anyone with whom you work.
 
-Term Paper({{< resource_link e0d1b566-977c-934f-4d17-9749e492764b "PDF" >}})
+Term Paper({{% resource_link e0d1b566-977c-934f-4d17-9749e492764b "PDF" %}})
 -------------------------------------------------------------
 
 The paper should represent an opportunity for you to read outside of the class material and gain a deeper understanding of abnormal language. The end result should be a paper that contributes something novel to the field. That is, we are not looking for literature reviews alone. While the papers should review what is known in the relevant area, we are looking for critical analysis and theory generation. All papers should offer a critique of the relevant literature and attempt to unify disparate results, proposing how theories could be tested and what types of results would help in deciding between competing alternatives. We can imagine papers in the following four styles, but are open to other ideas.
