@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the course assignments, including a
+  problem set on syntax and a term paper.
 draft: false
 learning_resource_types:
 - Assignments

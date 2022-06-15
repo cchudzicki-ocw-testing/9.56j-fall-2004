@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and assignment due
+  dates.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
