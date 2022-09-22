@@ -5,6 +5,7 @@ file: /courses/9-56j-abnormal-language-fall-2004/03e6b9837d5e8f1dda0ede801b836ff
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
